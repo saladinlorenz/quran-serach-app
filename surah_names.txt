@@ -1,0 +1,115 @@
+1. Al-Fatihah (the Opening) - الفاتحة
+2. Al-Baqarah (the Cow) - البقرة
+3. Aali Imran (the Family of Imran) - آل عمران
+4. An-Nisa’ (the Women) - النساء
+5. Al-Ma’idah (the Table) - المائدة
+6. Al-An’am (the Cattle) - الأنعام
+7. Al-A’raf (the Heights) - الأعراف
+8. Al-Anfal (the Spoils of War) - الأنفال
+9. At-Taubah (the Repentance) - التوبة
+10. Yunus (Yunus) - يونس
+11. Hud (Hud) - هود
+12. Yusuf (Yusuf) - يوسف
+13. Ar-Ra’d (the Thunder) - الرعد
+14. Ibrahim (Ibrahim) - إبراهيم
+15. Al-Hijr (the Rocky Tract) - الحجر
+16. An-Nahl (the Bees) - النحل
+17. Al-Isra’ (the Night Journey) - الإسراء
+18. Al-Kahf (the Cave) - الكهف
+19. Maryam (Maryam) - مريم
+20. Ta-Ha (Ta-Ha) - طه
+21. Al-Anbiya’ (the Prophets) - الأنبياء
+22. Al-Haj (the Pilgrimage) - الحج
+23. Al-Mu’minun (the Believers) - المؤمنون
+24. An-Nur (the Light) - النور
+25. Al-Furqan (the Criterion) - الفرقان
+26. Ash-Shu’ara’ (the Poets) - الشعراء
+27. An-Naml (the Ants) - النمل
+28. Al-Qasas (the Stories) - القصص
+29. Al-Ankabut (the Spider) - العنكبوت
+30. Ar-Rum (the Romans) - الروم
+31. Luqman (Luqman) - لقمان
+32. As-Sajdah (the Prostration) - السجدة
+33. Al-Ahzab (the Combined Forces) - الأحزاب
+34. Saba’ (the Sabeans) - سبأ
+35. Al-Fatir (the Originator) - فاطر
+36. Ya-Sin (Ya-Sin) - يس
+37. As-Saffah (Those Ranges in Ranks) - الصافات
+38. Sad (Sad) - ص
+39. Az-Zumar (the Groups) - الزمر
+40. Ghafar (the Forgiver) - غافر
+41. Fusilat (Distinguished) - فصلت
+42. Ash-Shura (the Consultation) - الشورى
+43. Az-Zukhruf (the Gold) - الزخرف
+44. Ad-Dukhan (the Smoke) - الدخان
+45. Al-Jathiyah (the Kneeling) - الجاثية
+46. Al-Ahqaf (the Valley) - الأحقاف
+47. Muhammad (Muhammad) - محمد
+48. Al-Fat’h (the Victory) - الفتح
+49. Al-Hujurat (the Dwellings) - الحجرات
+50. Qaf (Qaf) - ق
+51. Adz-Dzariyah (the Scatterers) - الذاريات
+52. At-Tur (the Mount) - الطور
+53. An-Najm (the Star) - النجم
+54. Al-Qamar (the Moon) - القمر
+55. Ar-Rahman (the Most Gracious) - الرحمن
+56. Al-Waqi’ah (the Event) - الواقعة
+57. Al-Hadid (the Iron) - الحديد
+58. Al-Mujadilah (the Reasoning) - المجادلة
+59. Al-Hashr (the Gathering) - الحشر
+60. Al-Mumtahanah (the Tested) - الممتحنة
+61. As-Saf (the Row) - الصف
+62. Al-Jum’ah (Friday) - الجمعة
+63. Al-Munafiqun (the Hypocrites) - المنافقون
+64. At-Taghabun (the Loss & Gain) - التغابن
+65. At-Talaq (the Divorce) - الطلاق
+66. At-Tahrim (the Prohibition) - التحريم
+67. Al-Mulk (the Kingdom) - الملك
+68. Al-Qalam (the Pen) - القلم
+69. Al-Haqqah (the Inevitable) - الحاقة
+70. Al-Ma’arij (the Elevated Passages) - المعارج
+71. Nuh (Nuh) - نوح
+72. Al-Jinn (the Jinn) - الجن
+73. Al-Muzammil (the Wrapped) - المزمل
+74. Al-Mudaththir (the Cloaked) - المدثر
+75. Al-Qiyamah (the Resurrection) - القيامة
+76. Al-Insan (the Human) - الإنسان
+77. Al-Mursalat (Those Sent Forth) - المرسلات
+78. An-Naba’ (the Great News) - النبأ
+79. An-Nazi’at (Those Who Pull Out) - النازعات
+80. ‘Abasa (He Frowned) - عبس
+81. At-Takwir (the Overthrowing) - التكوير
+82. Al-Infitar (the Cleaving) - الإنفطار
+83. Al-Mutaffifin (Those Who Deal in Fraud) - المطففين
+84. Al-Inshiqaq (the Splitting Asunder) - الإنشقاق
+85. Al-Buruj (the Stars) - البروج
+86. At-Tariq (the Nightcomer) - الطارق
+87. Al-A’la (the Most High) - الأعلى
+88. Al-Ghashiyah (the Overwhelming) - الغاشية
+89. Al-Fajr (the Dawn) - الفجر
+90. Al-Balad (the City) - البلد
+91. Ash-Shams (the Sun) - الشمس
+92. Al-Layl (the Night) - الليل
+93. Adh-Dhuha (the Forenoon) - الضحى
+94. Al-Inshirah (the Opening Forth) - الشرح
+95. At-Tin (the Fig) - التين
+96. Al-‘Alaq (the Clot) - العلق
+97. Al-Qadar (the Night of Decree) - القدر
+98. Al-Bayinah (the Proof) - البينة
+99. Az-Zalzalah (the Earthquake) - الزلزلة
+100. Al-‘Adiyah (the Runners) - العاديات
+101. Al-Qari’ah (the Striking Hour) - القارعة
+102. At-Takathur (the Piling Up) - التكاثر
+103. Al-‘Asr (the Time) - العصر
+104. Al-Humazah (the Slanderer) - الهمزة
+105. Al-Fil (the Elephant) - الفيل
+106. Quraish (Quraish) - قريش
+107. Al-Ma’un (the Assistance) - الماعون
+108. Al-Kauthar (the River of Abundance) - الكوثر
+109. Al-Kafirun (the Disbelievers) - الكافرون
+110. An-Nasr (the Help) - النصر
+111. Al-Masad (the Palm Fiber) - المسد
+112. Al-Ikhlas (the Sincerity) - الإخلاص
+113. Al-Falaq (the Daybreak) - الفلق
+114. An-Nas (Mankind) - الناس
+
