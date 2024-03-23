@@ -36,7 +36,7 @@ This package is necessary for Arabic text processing within the application.
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/quran-search-app.git
+git clone https://github.com/saladinlorenz/quran-serach-app.git
 ```
 
 2. Navigate to the project directory:
